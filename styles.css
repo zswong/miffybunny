@@ -1,0 +1,21 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 22px;
+    margin-top: 15px;
+    display: block;
+    
+}
+
+.nav-link {
+    color: rgb(49, 21, 6); 
+    text-decoration: none; 
+    margin-left: 20px; 
+    font-size: 20px; 
+}
