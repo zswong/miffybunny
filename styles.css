@@ -1,3 +1,15 @@
+body{
+    margin:0;
+    background:rgb(255, 255, 255);
+    text-align: left;
+}
+
+h1, h3{
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    margin-top: 90px;
+}
+
 nav {
     display: flex;
     justify-content: space-around;
@@ -18,4 +30,48 @@ nav a {
     text-decoration: none; 
     margin-left: 20px; 
     font-size: 20px; 
+}
+
+
+.logo {
+    margin-left: -80px;
+}
+
+#about {
+    text-align: center; 
+    max-width: 880px; 
+    margin-top: -450px;
+    padding: 300px; 
+    background-color: #ffffff; 
+}
+
+#about h1 {
+    margin-top: 18px; 
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#about p {
+    margin-top: 30px; 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+.leftside{
+    width: 500px;
+    height: 365px;
+    margin-top: 100px;
+
+}
+.rightside{
+    width: 190px;
+    height: 200px;
+    margin-left: 600px;
+
+
+}
+
+.mepic{
+    width: 190px;
+    height: 250px;
+    margin-top: -170px;
+    text-align: center; 
 }
