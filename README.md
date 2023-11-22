@@ -5,6 +5,8 @@ The wireframe for my web pagecan be found in: images/Webpage_wireframe.png
 Link to the website: https://zswong.github.io/miffybunny/
 
 technology stack used to develop the website:
+1. HTML was used for structuring the content of the webpage.
+2. CSS was used for styling and formatting the visual presentation of the website.
 
 HTML was used for structuring the content of the webpage.
 CSS was used for styling and formatting the visual presentation of the website.
